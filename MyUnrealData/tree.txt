@@ -1,0 +1,181 @@
+‘âàãªâãà  ¯ ¯®ª
+‘¥à¨©­ë© ­®¬¥à â®¬ : 4C10-F72D
+C:.
+³   MyUnrealData.uproject
+³   tree.txt
+³   
+ÃÄÄÄConfig
+³       DefaultEditor.ini
+³       DefaultEditorPerProjectUserSettings.ini
+³       DefaultEngine.ini
+³       DefaultGame.ini
+³       DefaultInput.ini
+³       
+ÃÄÄÄContent
+³   ÃÄÄÄCollections
+³   ÃÄÄÄDevelopers
+³   ³   ÀÄÄÄHetter
+³   ³       ÀÄÄÄCollections
+³   ÃÄÄÄFirstPerson
+³   ³   ÃÄÄÄAnimations
+³   ³   ³       FirstPersonFire_Montage.uasset
+³   ³   ³       FirstPerson_AnimBP.uasset
+³   ³   ³       FirstPerson_Fire.uasset
+³   ³   ³       FirstPerson_Idle.uasset
+³   ³   ³       FirstPerson_JumpEnd.uasset
+³   ³   ³       FirstPerson_JumpLoop.uasset
+³   ³   ³       FirstPerson_JumpStart.uasset
+³   ³   ³       FirstPerson_Run.uasset
+³   ³   ³       
+³   ³   ÃÄÄÄAudio
+³   ³   ³       FirstPersonTemplateWeaponFire02.uasset
+³   ³   ³       
+³   ³   ÃÄÄÄCharacter
+³   ³   ³   ÃÄÄÄMaterials
+³   ³   ³   ³   ³   M_UE4Man_Body.uasset
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄMaterialLayers
+³   ³   ³   ³           ML_GlossyBlack_Latex_UE4.uasset
+³   ³   ³   ³           ML_Plastic_Shiny_Beige.uasset
+³   ³   ³   ³           ML_Plastic_Shiny_Beige_LOGO.uasset
+³   ³   ³   ³           ML_SoftMetal_UE4.uasset
+³   ³   ³   ³           T_ML_Aluminum01.uasset
+³   ³   ³   ³           T_ML_Aluminum01_N.uasset
+³   ³   ³   ³           T_ML_Rubber_Blue_01_D.uasset
+³   ³   ³   ³           T_ML_Rubber_Blue_01_N.uasset
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄMesh
+³   ³   ³   ³       FirstPersonAnimBlueprint_Copy.uasset
+³   ³   ³   ³       SK_Mannequin_Arms.uasset
+³   ³   ³   ³       SK_Mannequin_Arms_PhysicsAsset.uasset
+³   ³   ³   ³       SK_Mannequin_Arms_Skeleton.uasset
+³   ³   ³   ³       
+³   ³   ³   ÀÄÄÄTextures
+³   ³   ³           UE4_LOGO_CARD.uasset
+³   ³   ³           UE4_Mannequin_MAT_MASKA.uasset
+³   ³   ³           UE4_Mannequin__normals.uasset
+³   ³   ³           
+³   ³   ÃÄÄÄFPWeapon
+³   ³   ³   ÃÄÄÄMaterials
+³   ³   ³   ³   ³   M_FPGun.uasset
+³   ³   ³   ³   ³   
+³   ³   ³   ³   ÀÄÄÄMaterialLayers
+³   ³   ³   ³           ML_GlossyBlack_Latex_UE4.uasset
+³   ³   ³   ³           ML_Plastic_Shiny_Beige.uasset
+³   ³   ³   ³           ML_Plastic_Shiny_Beige_LOGO.uasset
+³   ³   ³   ³           ML_Screen.uasset
+³   ³   ³   ³           ML_SoftMetal_UE4.uasset
+³   ³   ³   ³           T_ML_Aluminum01.uasset
+³   ³   ³   ³           T_ML_Aluminum01_N.uasset
+³   ³   ³   ³           T_ML_FineRubber.uasset
+³   ³   ³   ³           T_ML_Rubber_Blue_01_D.uasset
+³   ³   ³   ³           T_ML_Rubber_Blue_01_N.uasset
+³   ³   ³   ³           
+³   ³   ³   ÃÄÄÄMesh
+³   ³   ³   ³       SK_FPGun.uasset
+³   ³   ³   ³       SK_FPGun_PhysicsAsset.uasset
+³   ³   ³   ³       SK_FPGun_Skeleton.uasset
+³   ³   ³   ³       
+³   ³   ³   ÀÄÄÄTextures
+³   ³   ³           T_FPGun_M.uasset
+³   ³   ³           T_FPGun_N.uasset
+³   ³   ³           
+³   ³   ÃÄÄÄMeshes
+³   ³   ³       BaseMaterial.uasset
+³   ³   ³       CubeMaterialOverride.uasset
+³   ³   ³       FirstPersonProjectileMaterial.uasset
+³   ³   ³       FirstPersonProjectileMesh.uasset
+³   ³   ³       
+³   ³   ÀÄÄÄTextures
+³   ³           FirstPersonCrosshair.uasset
+³   ³           
+³   ÃÄÄÄFirstPersonBP
+³   ³   ³   FirstPersonOverview.uasset
+³   ³   ³   
+³   ³   ÃÄÄÄBlueprints
+³   ³   ³       FirstPersonCharacter.uasset
+³   ³   ³       FirstPersonGameMode.uasset
+³   ³   ³       FirstPersonHUD.uasset
+³   ³   ³       FirstPersonProjectile.uasset
+³   ³   ³       
+³   ³   ÀÄÄÄMaps
+³   ³           FirstPersonExampleMap.umap
+³   ³           
+³   ÀÄÄÄGeometry
+³       ÀÄÄÄMeshes
+³               1M_Cube.uasset
+³               1M_Cube_Chamfer.uasset
+³               CubeMaterial.uasset
+³               TemplateFloor.uasset
+³               
+ÃÄÄÄIntermediate
+³   ³   CachedAssetRegistry.bin
+³   ³   
+³   ÃÄÄÄAssetRegistryCache
+³   ³       2657c409.bin
+³   ³       866581fd.bin
+³   ³       8c0e1344.bin
+³   ³       
+³   ÃÄÄÄConfig
+³   ³   ÀÄÄÄCoalescedSourceConfigs
+³   ³           Compat.ini
+³   ³           DeviceProfiles.ini
+³   ³           Editor.ini
+³   ³           EditorKeyBindings.ini
+³   ³           EditorLayout.ini
+³   ³           EditorPerProjectUserSettings.ini
+³   ³           EditorSettings.ini
+³   ³           Engine.ini
+³   ³           Game.ini
+³   ³           GameplayTags.ini
+³   ³           GameUserSettings.ini
+³   ³           Hardware.ini
+³   ³           Input.ini
+³   ³           InternationalizationExport.ini
+³   ³           Lightmass.ini
+³   ³           LocalizationServiceSettings.ini
+³   ³           Scalability.ini
+³   ³           SourceControlSettings.ini
+³   ³           TemplateDefs.ini
+³   ³           TranslationPickerSettings.ini
+³   ³           
+³   ÀÄÄÄReimportCache
+³           3688439234.bin
+³           
+ÀÄÄÄSaved
+    ³   AutoScreenshot.png
+    ³   
+    ÃÄÄÄAutosaves
+    ³       PackageRestoreData.json
+    ³       
+    ÃÄÄÄCollections
+    ÃÄÄÄConfig
+    ³   ÀÄÄÄWindows
+    ³           Compat.ini
+    ³           DeviceProfiles.ini
+    ³           Editor.ini
+    ³           EditorPerProjectUserSettings.ini
+    ³           Engine.ini
+    ³           Game.ini
+    ³           GameplayTags.ini
+    ³           GameUserSettings.ini
+    ³           Hardware.ini
+    ³           Input.ini
+    ³           InternationalizationExport.ini
+    ³           Lightmass.ini
+    ³           LocalizationServiceSettings.ini
+    ³           Scalability.ini
+    ³           SourceControlSettings.ini
+    ³           TemplateDefs.ini
+    ³           TranslationPickerSettings.ini
+    ³           
+    ÀÄÄÄLogs
+        ³   MyUnrealData-backup-2016.09.26-15.03.53.log
+        ³   MyUnrealData.log
+        ³   
+        ÃÄÄÄUE4CC-Windows-7526CD1C4908DE42FB7D37BCF5B8EBE3
+        ³       CrashReportClient.ini
+        ³       
+        ÀÄÄÄUE4CC-Windows-90B183B54E78AF64912800A5BFA0717E
+                CrashReportClient.ini
+                
